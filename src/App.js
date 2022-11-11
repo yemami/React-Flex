@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="bg-gray-500 h-screen">
-      <div className="bg-white w-[100vw] h-[15vh]">Header</div>
+      <div className="bg-white w-[100vw] h-[15vh]">sime</div>
       <div className="bg-pink-200 w-[100vw] h-[15vh]">Nav</div>
       <div className="md:flex  ">
         <div className="bg-blue-300 w-[100vw] h-[15vh] md:w-[50%] ">
